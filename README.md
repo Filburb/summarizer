@@ -20,7 +20,7 @@
     * **Upload PDF:** Ekstraksi teks cerdas yang mampu menangani layout dua kolom (*double-column*) menjadi alur bacaan linear.
     * **Paste Text:** Input manual untuk peringkasan cepat potongan teks.
 
-2.  **Adaptive Noise Reduction (Fitur Unik)**
+2.  **Noise Reduction**
     Sistem menggunakan algoritma berbasis Regex untuk mendeteksi dan memotong otomatis bagian *References*, *Bibliography*, atau *Daftar Pustaka*. Fitur ini menghemat 15-20% penggunaan token dan mencegah model menghasilkan halusinasi dari judul referensi.
 
 3.  **Input Validation**
