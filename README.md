@@ -66,15 +66,13 @@ pip install -r requirements.txt
 Aplikasi ini menggunakan Groq API. Anda harus memiliki API Key sendiri untuk menjalankannya secara lokal.
 1. Dapatkan API Key di: https://console.groq.com/keys
 
-2. Di dalam folder proyek, buat folder baru bernama .streamlit.
+2.  Di dalam folder proyek, buat folder baru bernama .streamlit.
 
-3. Di dalam folder .streamlit, buat file bernama secrets.toml.
+3.  Di dalam folder .streamlit, buat file bernama secrets.toml.
 
-4. Isi file secrets.toml dengan format berikut:
-
-* **.streamlit/secrets.toml
-
-* **GROQ_API_KEYS = "gsk_masukkan_api_key_anda_disini"
+4.  Isi file secrets.toml dengan format berikut:
+    * .streamlit/secrets.toml
+    * GROQ_API_KEYS = "gsk_masukkan_api_key_anda_disini"
 
 
 ### 4. Jalankan Aplikasi
