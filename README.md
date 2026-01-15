@@ -71,7 +71,9 @@ Aplikasi ini menggunakan Groq API. Anda harus memiliki API Key sendiri untuk men
 3. Di dalam folder .streamlit, buat file bernama secrets.toml.
 
 4. Isi file secrets.toml dengan format berikut:
+
 .streamlit/secrets.toml
+
 GROQ_API_KEYS = "gsk_masukkan_api_key_anda_disini"
 
 
