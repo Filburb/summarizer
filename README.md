@@ -17,7 +17,7 @@
 
 1.  **Dual Input Interface**
     Mendukung dua metode input:
-    * **Upload PDF:** Ekstraksi teks cerdas yang mampu menangani layout dua kolom (*double-column*) menjadi alur bacaan linear.
+    * **Upload PDF:** Ekstraksi teks dari pdf yang diupload.
     * **Paste Text:** Input manual untuk peringkasan cepat potongan teks.
 
 2.  **Noise Reduction**
