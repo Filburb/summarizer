@@ -7,7 +7,7 @@
 
 **Link video:** https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221112207_students_mikroskil_ac_id/IQD_Ip-fw4YEQLt1xAf0To_RAZ-Mh0PgzgU8FJdXS56R-8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8oZgot
 
-**Link Laporan:** 
+**Link Laporan:** https://mikroskilacid-my.sharepoint.com/:b:/g/personal/221112207_students_mikroskil_ac_id/IQBlai5AejgwTbBppUXb26JrAQifef7dTF1CtNYfTF4atIU?e=CZIt7j
 
 **Link Paper:** https://mikroskilacid-my.sharepoint.com/:w:/g/personal/221112207_students_mikroskil_ac_id/IQD9Ux2SwJtLQYuSSd3akmGQAZGAA3gN-AFjQoLfdmET5iw?e=ezLeqF
 
